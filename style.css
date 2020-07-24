@@ -1,0 +1,21 @@
+body{
+	background-image: url(pic/2.jpg);
+	background-repeat: no-repeat;
+	height: 100vh;
+	background-size:cover;
+	background-position: center;
+	
+}
+.hero{
+	position: absolute;
+	text-transform: uppercase;
+	font-size: 50px;
+	text-align: center;
+	margin-top: 0px;
+	margin-left: 250px;
+	color: white;
+}
+
+#particles-js{
+
+}
